@@ -1,2 +1,1 @@
-# myGitProjectRemote
-mygit远程项目
+# myGitProject
